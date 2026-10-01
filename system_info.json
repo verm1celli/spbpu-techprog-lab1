@@ -1,0 +1,26 @@
+{
+    "os": {
+        "name": "macOS",
+        "version": "26.6.2"
+    },
+    "kernel": {
+        "name": "Darwin",
+        "release": "25.6.0",
+        "version": "Darwin Kernel Version 25.6.0: Fri Jul 31 19:11:03 PDT 2026; root:xnu-12377.161.14~5/RELEASE_ARM64_T8132"
+    },
+    "hardware": {
+        "architecture": "arm64",
+        "processor": "arm",
+        "logical_cpu_count": 10,
+        "hostname": "MacBook-Air-ave.local"
+    },
+    "python": {
+        "version": "3.13.5"
+    },
+    "disk": {
+        "path": "/",
+        "total_gib": 228.27,
+        "used_gib": 140.46,
+        "free_gib": 87.82
+    }
+}
